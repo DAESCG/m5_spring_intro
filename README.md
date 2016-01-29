@@ -15,7 +15,7 @@ Two main items of interest were discussed at the 5th DAES CG meeting:
 
 1. Data Visualization - The theme for the Spring 2016 semester
 
-2. Meeting frequency - A proposed increase to once every 2-3 weeks
+2. Meeting frequency - A proposed increase from once a month to once every 2-3 weeks
 
 After discussing these items, demonstrations of dynamic, interactive web-based
 visualization tools were provided. Descriptions of these tools, along with 
