@@ -18,7 +18,7 @@ relevant links, are included in the section below.
 
 Demonstrations
 --------------
-#### 1. [Historical Hurricane Tracks](https://coast.noaa.gov/hurricanes)
+#### 1. [Historical Hurricane Tracks](https://coast.noaa.gov/hurricanes) ####
 
 	A web-based TC track and intensity visualization tool that utilizes JavaScript
 	to plot IBTrACS data on the fly.
