@@ -45,6 +45,6 @@ University of Reading, and is hosted on [GitHub](reading-escience-center.github.
 
 An open-source JavaScript library for mobile-friendly interactive maps.
 
-**6. A Leaflet-based HRRR forecast radar product (courtesy of Kevin Tyle)**
+**6. [A Leaflet-based HRRR forecast radar product](http://www.atmos.albany.edu/facstaff/ktyle/hrrr/hrrrloop_leaflet.html)**
 
-Please see the `examples` directory for product source code.
+Courtesy of Kevin Tyle.
