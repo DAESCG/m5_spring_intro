@@ -4,6 +4,11 @@ m5_spring_intro
 This repository houses all relevant content for the 5th DAES CG meeting, held
 on Thursday, 28 January 2016.
 
+Annoucements
+------------
+**The next meeting will be held on Thursday, 11 February 2016 unless otherwise
+noted.**
+
 Meeting Synopsis
 ----------------
 Two main items of interest were discussed at the 5th DAES CG meeting:
